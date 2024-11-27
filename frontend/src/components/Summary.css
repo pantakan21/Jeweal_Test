@@ -1,0 +1,45 @@
+.summary {
+    width: 120%;
+}
+
+.summary div {
+    display: flex;
+}
+
+.summary div {
+    display: flex;
+}
+
+.summary input {
+    margin: 0 10px;
+    height: 20px;
+    width: 105px;
+    border: 1px solid #cccaca;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.detail {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.summary p {
+    margin: 5px;
+}
+
+.grand-total {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 20px;
+    border: 1px solid #EDEDED;
+    background-color: #EDEDED;
+}
+
+.grand-total h1 {
+    margin: 0 !important;
+}
+

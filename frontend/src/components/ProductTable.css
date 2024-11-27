@@ -1,0 +1,109 @@
+table {
+    border-collapse: collapse;
+}
+
+thead { 
+    background-color: #EDEDED;
+    text-align: center;
+} 
+
+tbody {
+    text-align: center;
+}
+
+tfoot {
+    border-top: 1px solid #D7D7D9;
+}
+
+th {
+    padding: 10px 10px;
+}
+
+td {
+    padding: 2px 10px;
+}
+
+table input {
+    width: 105px;
+    height: 30px;
+    border: 1px solid #cccaca;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+select {
+    width: 80px;
+    height: 30px;
+    border: 1px solid #cccaca;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+tbody button {
+    width: 50px;
+    height: 40px;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.grey-border {
+    border-left: 1px solid #D7D7D9;
+    border-right: 1px solid #D7D7D9;
+}
+
+.input-width-1 {
+    width: 145px;
+}
+
+.input-width-2 {
+    width: 70px;
+}
+
+.input-width-3 {
+    width: 120px;
+}
+
+tfoot tr td input {
+    background-color: #EDEDED;
+    border: none;
+}
+
+.bottom {
+    display: flex;
+    justify-content: end;
+}
+
+.bottom button {
+    /* margin: 150px 5px; */
+    padding: 20px 30px;
+    width: 80px;
+    height: 40px;
+    border: 1px solid #cccaca;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: white;
+    cursor: pointer;
+    margin-top: 150px;
+}
+
+.bottom button:nth-child(1) {
+    margin-right: 10px;
+}
+
+.delete-btn {
+    background-color: red;
+}
+
+.add-btn {
+    background-color: green;
+}
+
+.edit-btn {
+    background-color: yellow;
+}

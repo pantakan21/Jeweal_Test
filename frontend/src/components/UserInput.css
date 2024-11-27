@@ -1,0 +1,8 @@
+.user-input-form input {
+    width: 225px;
+    height: 40px;
+    border: 1px solid #cccaca;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 20px;
+}

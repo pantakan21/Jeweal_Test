@@ -1,0 +1,21 @@
+.app-container {
+    padding: 70px 150px;
+}
+
+.center {
+    display: flex;
+    justify-content: space-between;
+}
+
+.center .center-left {
+    margin: 20px 150px 0 0;
+}
+
+.center .center-right {
+    margin: 20px 0px;
+}
+
+.center h1 {
+    font-size: 24px; 
+    margin-bottom: 15px;
+}
